@@ -1,2 +1,2 @@
-# publicacion
-primer publicacion del servicio.
+# publicacion de HOTSPOTmedia
+primer publicacion de nuestro servicio.
